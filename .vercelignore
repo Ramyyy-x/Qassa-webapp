@@ -1,0 +1,9 @@
+node_modules
+.next
+ffmpeg.zip
+ffmpeg-ext
+.vercel
+*.zip
+*.rar
+*.tar.gz
+/ffmpeg-ext
